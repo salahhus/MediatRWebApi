@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pnJQi6KfSQtKjAV9ukpR4gWUeCbSPQx0k76j//iSUBo=",
+  "Source": "MedaitRWebApi",
+  "BasePath": "_content/MedaitRWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

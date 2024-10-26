@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Temp\\Mediatr\\MedaitRWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|d:\\temp\\mediatr\\medaitrwebapi\\weathermessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|solutionrelative:weathermessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|d:\\temp\\mediatr\\medaitrwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|d:\\temp\\mediatr\\medaitrwebapi\\weathermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|solutionrelative:weathermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|d:\\temp\\mediatr\\medaitrwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|d:\\temp\\mediatr\\medaitrwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2281442-31BA-4EEA-A2C2-93EFF47043DC}|MedaitRWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:54:08.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherMessage.cs",
+              "DocumentMoniker": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherMessage.cs",
+              "RelativeDocumentMoniker": "WeatherMessage.cs",
+              "ToolTip": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherMessage.cs",
+              "RelativeToolTip": "WeatherMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:52:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Temp\\Mediatr\\MedaitRWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Temp\\Mediatr\\MedaitRWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:41:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherMessageHandler.cs",
+              "DocumentMoniker": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherMessageHandler.cs",
+              "RelativeDocumentMoniker": "WeatherMessageHandler.cs",
+              "ToolTip": "D:\\Temp\\Mediatr\\MedaitRWebApi\\WeatherMessageHandler.cs",
+              "RelativeToolTip": "WeatherMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:38:56.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Temp\\Mediatr\\MedaitRWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Temp\\Mediatr\\MedaitRWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:33:29.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
