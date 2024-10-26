@@ -26,3 +26,7 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - name: Restore dependencies
+      run: dotnet restore MedaitRWebApi/MedaitRWebApi.csproj
+    - name: Build
+      run: dotnet build MedaitRWebApi/MedaitRWebApi.csproj--configuration Release
